@@ -1,6 +1,7 @@
 # OpenSource_PullRequest_Repo
-해당 저장소는 오픈소스에 기여했던 내역을 정리한 저장소입니다.
-Merge가 되지 않아도 PullRequest를 작성했던 내역도 추가되어있습니다.
+해당 저장소는 제가 오픈소스에 기여했던 내역을 정리한 저장소입니다.
+
+Merge가 되어 있지 않아도 PullRequest를 작성했던 내역도 추가되어있습니다.
 
 ---
 
