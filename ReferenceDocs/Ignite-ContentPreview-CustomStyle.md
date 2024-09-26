@@ -5,10 +5,10 @@ Static Website를 구현하는데 도움을 주는 Ignite 라이브러리에서 
 하지만 ContentPreview에는 Layout이 지정되어 있어 Custom이 불가능했습니다. 따라서 클로저 프로퍼티를 통해 Custom을 원하는 경우 Custom이 가능하도록 기능을 추가했습니다.
 
 ### 스크린샷
-[img](./Images/IgnitePRSample.png)
+<img src= "../Images/IgnitePRSample.png">
 
 ### 변경내용
-``` 
+```swift
 import Foundation
 
 /// A wrapper around Card, specifically aimed at presenting details about
