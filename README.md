@@ -7,6 +7,7 @@ Merge가 되어 있지 않아도 PullRequest를 작성했던 내역도 추가되
 
 |원본 저장소|PR링크|기여한 내용|참고 문서|
 |:---|:----|:---|:---|
+|[Ignite](https://github.com/twostraws/Ignite)|[Feat ContentPreview CustomStyle](https://github.com/twostraws/Ignite/pull/129)|Ignite ContentPreview Component에 CustomLayout 기능 구현|[Ignite-ContentPreview-CustomStyle.md](ReferenceDocs/Ignite-ContentPreview-CustomStyle.md)|
 |[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|[Fix Prototype-Pattern SampleCode](https://github.com/ochococo/Design-Patterns-In-Swift/pull/109)|Swift로 작성된 디자인패턴 예시를 설명하는 저장소에 Prototype패턴에서 샘플 코드에서 구조체를 클래스로 변경|[Prototype-Pattern.md](ReferenceDocs/Prototype-Pattern.md)|
 |[Vapor Docs](https://github.com/vapor/docs)|[Start Korean translation](https://github.com/vapor/docs/pull/841)|Vapor 공식문서 한국어옵션과 문서를 추가|
 |[messenger-iOS-chat-swift-firestore](https://github.com/instamobile/messenger-iOS-chat-swift-firestore)|[Changed Facebook Login SDK and fixed Firebase build](https://github.com/instamobile/messenger-iOS-chat-swift-firestore/pull/29)|Xcode15이상에서 앱이 빌드가 되지않는 이슈 수정|
